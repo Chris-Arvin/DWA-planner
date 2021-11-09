@@ -1,5 +1,5 @@
 # DWA-planner
-Simplest dwa-planer. a demo in ros. Developed from https://github.com/NKU-MobFly-Robotics/dwa_planner
+Simplest dwa-planner. a demo in ros. Developed from https://github.com/NKU-MobFly-Robotics/dwa_planner
 该仓库代码已经在安装Ubuntu 18.04/ROS Melodic的电脑上测试通过。
 
 ## 1. 安装依赖
