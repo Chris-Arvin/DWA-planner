@@ -10,7 +10,7 @@ sudo apt install ros-melodic-navigation
 我们假设您已经创建了名为catkin_ws的工作空间并完成了初始化，将该仓库克隆到本地
 ```
 $ cd ~/catkin_ws/src/
-$ git clone https://github.com/NKU-MobFly-Robotics/dwa_planner.git
+$ git clone https://github.com/Chris-Arvin/DWA-planner.git
 ```
 完成DWAPlanner类之后，编译程序
 ```
